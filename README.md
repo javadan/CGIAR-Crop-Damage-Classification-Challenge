@@ -21,3 +21,5 @@ I tried a few things
 
 Based on Forum discussion, the key to the competition was data cleaning.  There were 20000 images, so I wasn't sure what that meant.  Ain't nobody got time for data cleaning 20,000 images.
 I also forgot all about hyperparameter optimisation, which probably would have been wise.
+
+Zindi was again pretty disappointing, in terms of clarifying rules.  Official rules expected submissions with Probability Per Class with Overlap. Amy from Zindi implied that it's Mutually Exclusive Logits, but wouldn't confirm.  
