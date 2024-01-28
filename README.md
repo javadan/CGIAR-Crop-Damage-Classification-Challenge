@@ -39,8 +39,30 @@ got weird output.  still meaningful output?
 
 hmm.  a mystery for another day?  
 I'll ask GPT4 if this can be salvaged.  Their answer is mystical, " it might indicate an issue with the model or the data".  Indeed, it does.  Exercise left for the reader?  (this is an art project now.)
+Here are dalle's takes on activation functions, in no particular order
+
+    Sigmoid Activation Function
+
+    Tanh (Hyperbolic Tangent) Activation Function
+
+    ReLU (Rectified Linear Unit) Activation Function
+
+    Leaky ReLU Activation Function
+
+    ELU (Exponential Linear Unit) Activation Function
+
+    Softmax Activation Function
+
+    Swish Activation Function
+
+    Mish Activation Function
+
+    SELU (Scaled Exponential Linear Unit) Activation Function
+
+    GELU (Gaussian Error Linear Unit) Activation Function
 
 
+![2e1cee55-db5b-455c-bbd7-e67bf79c1c70](https://github.com/javadan/CGIAR-Crop-Damage-Classification-Challenge/assets/3356298/0345960b-aa4c-45a4-abe6-2a57b55606a4)
 ![DALL·E 2024-01-28 22 17 38 - Close-up illustration of the GELU (Gaussian Error Linear Unit) activation function  Include the graph of the function, its mathematical formula, and a](https://github.com/javadan/CGIAR-Crop-Damage-Classification-Challenge/assets/3356298/da8c8174-a6e1-41bd-9c5d-c99e9440f017)
 ![DALL·E 2024-01-28 22 17 40 - Close-up illustration of the SELU (Scaled Exponential Linear Unit) activation function  Include the graph of the function, its mathematical formula, a](https://github.com/javadan/CGIAR-Crop-Damage-Classification-Challenge/assets/3356298/8a731f1b-87fa-4766-bef7-b99f318b011b)
 ![DALL·E 2024-01-28 22 17 50 - Close-up illustration of the Leaky ReLU activation function  Include the graph of the function, its mathematical formula, and a brief description high](https://github.com/javadan/CGIAR-Crop-Damage-Classification-Challenge/assets/3356298/e26a20c7-2899-4e9b-9726-aff8a900c4ab)
@@ -51,3 +73,6 @@ I'll ask GPT4 if this can be salvaged.  Their answer is mystical, " it might ind
 ![DALL·E 2024-01-28 22 17 44 - Close-up illustration of the Swish activation function  Include the graph of the function, its mathematical formula, and a brief description highlight](https://github.com/javadan/CGIAR-Crop-Damage-Classification-Challenge/assets/3356298/4ff4480e-5b13-4d1f-ac46-d9988b45a7fb)
 ![DALL·E 2024-01-28 22 17 48 - Close-up illustration of the ELU (Exponential Linear Unit) activation function  Include the graph of the function, its mathematical formula, and a bri](https://github.com/javadan/CGIAR-Crop-Damage-Classification-Challenge/assets/3356298/dc4b16fc-53d5-4ec1-a952-5679861f502d)
 ![DALL·E 2024-01-28 22 17 53 - Close-up illustration of the ReLU (Rectified Linear Unit) activation function  Include the graph of the function, its mathematical formula, and a brie](https://github.com/javadan/CGIAR-Crop-Damage-Classification-Challenge/assets/3356298/067724dd-ac96-4e9e-996b-3b2d4bc01f38)
+
+
+
