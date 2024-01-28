@@ -4,7 +4,7 @@ https://zindi.africa/competitions/cgiar-crop-damage-classification-challenge
 First attempt at a Computer Vision competition.  Doesn't look like it's going very well.  108/352 before the buzzer.  
 
 Got my best score with code that I subsequently lost (i.e. overwrote, with newer code).  
-Got about .65 score with efficientvit_l2.r384_in1k and some random cropping and CutMix and some other augmentations.  
+My top result was .65 with efficientvit_l2.r384_in1k and some random cropping and CutMix and some other augmentations.  
 First time using FastAI.  It seems super buggy to me.  But nice when it works.  
 e.g. Save as .pth or export as .pkl?: sometimes it won't let you export as .pkl and sometimes it won't let you load from .pth.
 e.g. Using some complex batch_tfms like CutMix? Then some things like lr_find and some item_tfms options won't work.
@@ -14,9 +14,9 @@ e.g. Using some complex batch_tfms like CutMix? Then some things like lr_find an
 Image_tiling_CGIAR_2023.ipynb - image tiling, chopping up images into chunks. I thought we'd get more detail from the high res images.  Validation score went up to 1.3, so apparently that was worse.
 
 CNN_and_histogram_CGIAR_2023.ipynb WIP- ran out of time  
-1. basic efficientvit_l2.r384_in1k fastai training, got about .7, then
+1. basic efficientvit_l2.r384_in1k, (about .7 ish on public LB) then
 2. caformer_s36.sail_in22k, (about .7 ish on public LB) ,then
-3. convnextv2_large.fcmae with attempt to merge histograms, which in hindsight, is, i dunno. That data is already encoded in the pixels.  Right?   We're gonna have to ask GPT4 about this one, and maybe even Claude.
+3. convnextv2_large.fcmae with attempt to merge histograms, which in hindsight, is, i dunno. That data is already encoded in the pixels.  Right?   We're gonna have to ask GPT4 about this one, and maybe even Claude.  GPT4 suggests isotonic regression.  There's always more to learn.
 
 got weird output.  still meaningful output?
 
