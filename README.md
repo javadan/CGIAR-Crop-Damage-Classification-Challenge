@@ -1,7 +1,7 @@
 # CGIAR-Crop-Damage-Classification-Challenge
 https://zindi.africa/competitions/cgiar-crop-damage-classification-challenge
 
-First attempt at a Computer Vision competition.  Doesn't look like it's going very well.  108/352 before the buzzer.  
+First attempt at a Computer Vision competition.  Doesn't look like it's going very well.  101/353.  Meh.
 
 Got my best score with code that I subsequently lost (i.e. overwrote, with newer code).  
 My top result was .65 with efficientvit_l2.r384_in1k and some random cropping and CutMix and some other augmentations.  
